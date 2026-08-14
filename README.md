@@ -1,2 +1,2 @@
 this is a collection of all my images
-go to index.html to see them all
+go to <a href="index.html">index.html</a> to see them all
