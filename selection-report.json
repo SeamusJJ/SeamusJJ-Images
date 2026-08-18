@@ -1,0 +1,1177 @@
+{
+    "total_images": 2044,
+    "unique_assets": 469,
+    "needs_review": 234,
+    "review": [
+        {
+            "name": "cash black",
+            "selected_candidate": "Currency\\Cash\\256px\\Cash Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "cash white",
+            "selected_candidate": "Currency\\Cash\\256px\\Cash White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "coin black",
+            "selected_candidate": "Currency\\Coin\\256px\\Coin Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "coin white",
+            "selected_candidate": "Currency\\Coin\\256px\\Coin White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "crystal black",
+            "selected_candidate": "Currency\\Crystal\\256w\\Crystal Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "crystal white",
+            "selected_candidate": "Currency\\Crystal\\256w\\Crystal White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "diamond black",
+            "selected_candidate": "Currency\\Diamond\\256px\\Diamond Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "diamond white",
+            "selected_candidate": "Currency\\Diamond\\256px\\Diamond White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "ingot black",
+            "selected_candidate": "Currency\\Ingot\\256px\\Ingot Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "ingot white",
+            "selected_candidate": "Currency\\Ingot\\256px\\Ingot White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "premium black",
+            "selected_candidate": "Currency\\Premium\\256px\\Premium Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "premium white",
+            "selected_candidate": "Currency\\Premium\\256px\\Premium White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "robux black",
+            "selected_candidate": "Currency\\Robux\\256px\\Robux Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "robux white",
+            "selected_candidate": "Currency\\Robux\\256px\\Robux White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "ticket black",
+            "selected_candidate": "Currency\\Ticket\\256px\\Ticket Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "ticket white",
+            "selected_candidate": "Currency\\Ticket\\256px\\Ticket White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "avocado black",
+            "selected_candidate": "Food\\Avocado\\256w\\Avocado Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "avocado white",
+            "selected_candidate": "Food\\Avocado\\256w\\Avocado White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "bait black",
+            "selected_candidate": "Food\\Bait (Fishing)\\256px\\Bait Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "bait white",
+            "selected_candidate": "Food\\Bait (Fishing)\\256px\\Bait White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "blueberry black",
+            "selected_candidate": "Food\\Blueberry\\256w\\Blueberry Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "blueberry white",
+            "selected_candidate": "Food\\Blueberry\\256w\\Blueberry White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "burger black",
+            "selected_candidate": "Food\\Burger\\256px\\Burger Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "burger white",
+            "selected_candidate": "Food\\Burger\\256px\\Burger White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "carrot black",
+            "selected_candidate": "Food\\Carrot\\256w\\Carrot Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "carrot white",
+            "selected_candidate": "Food\\Carrot\\256w\\Carrot White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "cookie black",
+            "selected_candidate": "Food\\Cookie\\256px\\Cookie Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "cookie white",
+            "selected_candidate": "Food\\Cookie\\256px\\Cookie White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "lemon black",
+            "selected_candidate": "Food\\Lemon\\256w\\Lemon Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "lemon white",
+            "selected_candidate": "Food\\Lemon\\256w\\Lemon White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "pancake black",
+            "selected_candidate": "Food\\Pancake\\256px\\Pancake Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "pancake white",
+            "selected_candidate": "Food\\Pancake\\256px\\Pancake White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "pizza black",
+            "selected_candidate": "Food\\Pizza\\256px\\Pizza Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "pizza white",
+            "selected_candidate": "Food\\Pizza\\256px\\Pizza White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "axe black",
+            "selected_candidate": "Item\\Axe\\256px\\Axe Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "axe white",
+            "selected_candidate": "Item\\Axe\\256px\\Axe White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "backpack black",
+            "selected_candidate": "Item\\Backpack\\256px\\Backpack Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "backpack white",
+            "selected_candidate": "Item\\Backpack\\256px\\Backpack White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "balloon black",
+            "selected_candidate": "Item\\Balloon\\256px\\Balloon Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "balloon white",
+            "selected_candidate": "Item\\Balloon\\256px\\Balloon White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "bomb black",
+            "selected_candidate": "Item\\Bomb\\256px\\Bomb Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "bomb white",
+            "selected_candidate": "Item\\Bomb\\256px\\Bomb White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "book black",
+            "selected_candidate": "Item\\Book\\256px\\Book Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "book white",
+            "selected_candidate": "Item\\Book\\256px\\Book White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "box black",
+            "selected_candidate": "Item\\Box\\256px\\Box Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "box white",
+            "selected_candidate": "Item\\Box\\256px\\Box White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "bubble gum black",
+            "selected_candidate": "Item\\Bubble Gum\\256px\\Bubble Gum Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "bubble gum white",
+            "selected_candidate": "Item\\Bubble Gum\\256px\\Bubble Gum White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "calendar black",
+            "selected_candidate": "Item\\Calendar\\256px\\Calendar Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "calendar white",
+            "selected_candidate": "Item\\Calendar\\256px\\Calendar White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "chest black",
+            "selected_candidate": "Item\\Chest\\256px\\Chest Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "chest white",
+            "selected_candidate": "Item\\Chest\\256px\\Chest White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "clock black",
+            "selected_candidate": "Item\\Clock\\256px\\Clock Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "clock white",
+            "selected_candidate": "Item\\Clock\\256px\\Clock White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "coil",
+            "selected_candidate": "Item\\Coil\\256px\\Coil 2nd 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "coil black",
+            "selected_candidate": "Item\\Coil\\256px\\Coil Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "coil white",
+            "selected_candidate": "Item\\Coil\\256px\\Coil White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "yellow coil 2nd_1",
+            "selected_candidate": "Item\\Coil\\256px\\Yellow Coil 2nd_1 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "egg black",
+            "selected_candidate": "Item\\Cracked Egg\\256px\\Egg Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "egg white",
+            "selected_candidate": "Item\\Cracked Egg\\256px\\Egg White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "credit card black",
+            "selected_candidate": "Item\\Credit Card\\256px\\Credit Card Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "credit card white",
+            "selected_candidate": "Item\\Credit Card\\256px\\Credit Card White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "crown black",
+            "selected_candidate": "Item\\Crown\\256px\\Crown Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "crown white",
+            "selected_candidate": "Item\\Crown\\256px\\Crown White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "dice black",
+            "selected_candidate": "Item\\Dice\\256px\\Dice Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "dice white",
+            "selected_candidate": "Item\\Dice\\256px\\Dice White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "gift black",
+            "selected_candidate": "Item\\Gift\\256px\\Gift Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "gift white",
+            "selected_candidate": "Item\\Gift\\256px\\Gift White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "gum black",
+            "selected_candidate": "Item\\Gum\\256px\\Gum Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "gum white",
+            "selected_candidate": "Item\\Gum\\256px\\Gum White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "hammer black",
+            "selected_candidate": "Item\\Hammer\\256px\\Hammer Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "hammer white",
+            "selected_candidate": "Item\\Hammer\\256px\\Hammer White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "key black",
+            "selected_candidate": "Item\\Key\\256px\\Key Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "key white",
+            "selected_candidate": "Item\\Key\\256px\\Key White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "location pin black",
+            "selected_candidate": "Item\\Location Pin\\256px\\Location Pin Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "location pin white",
+            "selected_candidate": "Item\\Location Pin\\256px\\Location Pin White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "lock black",
+            "selected_candidate": "Item\\Lock\\256px\\Lock Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "lock white",
+            "selected_candidate": "Item\\Lock\\256px\\Lock White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "unlock black",
+            "selected_candidate": "Item\\Lock\\256px\\Unlock Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "unlock white",
+            "selected_candidate": "Item\\Lock\\256px\\Unlock White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "lucky block black",
+            "selected_candidate": "Item\\Lucky Block\\256px\\Lucky Block Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "lucky block white",
+            "selected_candidate": "Item\\Lucky Block\\256px\\Lucky Block White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "magnet black",
+            "selected_candidate": "Item\\Magnet\\256px\\Magnet Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "magnet white",
+            "selected_candidate": "Item\\Magnet\\256px\\Magnet White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "medal black",
+            "selected_candidate": "Item\\Medal\\256px\\Medal Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "medal white",
+            "selected_candidate": "Item\\Medal\\256px\\Medal White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "newspaper black",
+            "selected_candidate": "Item\\Newspaper\\256px\\Newspaper Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "newspaper white",
+            "selected_candidate": "Item\\Newspaper\\256px\\Newspaper White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "pencil black",
+            "selected_candidate": "Item\\Pencil\\256px\\Pencil Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "pencil white",
+            "selected_candidate": "Item\\Pencil\\256px\\Pencil White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "potion black",
+            "selected_candidate": "Item\\Potion\\256px\\Potion Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "potion white",
+            "selected_candidate": "Item\\Potion\\256px\\Potion White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "rocket black",
+            "selected_candidate": "Item\\Rocket\\256px\\Rocket Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "rocket white",
+            "selected_candidate": "Item\\Rocket\\256px\\Rocket White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "scroll black",
+            "selected_candidate": "Item\\Scroll\\256px\\Scroll Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "scroll white",
+            "selected_candidate": "Item\\Scroll\\256px\\Scroll White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "shield black",
+            "selected_candidate": "Item\\Shield\\256px\\Shield Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "shield white",
+            "selected_candidate": "Item\\Shield\\256px\\Shield White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "shoe black",
+            "selected_candidate": "Item\\Shoe\\256px\\Shoe Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "shoe white",
+            "selected_candidate": "Item\\Shoe\\256px\\Shoe White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "shovel black",
+            "selected_candidate": "Item\\Shovel\\256px\\Shovel Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "shovel white",
+            "selected_candidate": "Item\\Shovel\\256px\\Shovel White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "sword black",
+            "selected_candidate": "Item\\Sword\\256px\\Sword Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "sword white",
+            "selected_candidate": "Item\\Sword\\256px\\Sword White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "target black",
+            "selected_candidate": "Item\\Target\\256px\\Target Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "target white",
+            "selected_candidate": "Item\\Target\\256px\\Target White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "teleporter black",
+            "selected_candidate": "Item\\Teleporter\\256px\\Teleporter Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "teleporter white",
+            "selected_candidate": "Item\\Teleporter\\256px\\Teleporter White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "torch black",
+            "selected_candidate": "Item\\Torch\\256w\\Torch Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "torch white",
+            "selected_candidate": "Item\\Torch\\256w\\Torch White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "trophy black",
+            "selected_candidate": "Item\\Trophy\\256w\\Trophy Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "trophy white",
+            "selected_candidate": "Item\\Trophy\\256w\\Trophy White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "broken heart black",
+            "selected_candidate": "Main\\Broken Heart\\256w\\Broken Heart Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "broken heart white",
+            "selected_candidate": "Main\\Broken Heart\\256w\\Broken Heart White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "codes black",
+            "selected_candidate": "Main\\Codes\\256px\\Codes Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "codes white",
+            "selected_candidate": "Main\\Codes\\256px\\Codes White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "downgrade black",
+            "selected_candidate": "Main\\Downgrade\\256w\\Downgrade Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "downgrade white",
+            "selected_candidate": "Main\\Downgrade\\256w\\Downgrade White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "fire black",
+            "selected_candidate": "Main\\Fire\\256px\\Fire Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "fire white",
+            "selected_candidate": "Main\\Fire\\256px\\Fire White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "heart black",
+            "selected_candidate": "Main\\Heart\\256px\\Heart Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "heart white",
+            "selected_candidate": "Main\\Heart\\256px\\Heart White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "house black",
+            "selected_candidate": "Main\\House\\256px\\House Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "house white",
+            "selected_candidate": "Main\\House\\256px\\House White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "hoverboard black",
+            "selected_candidate": "Main\\Hoverboard\\256px\\Hoverboard Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "hoverboard white",
+            "selected_candidate": "Main\\Hoverboard\\256px\\Hoverboard White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "lighting black",
+            "selected_candidate": "Main\\Lighting\\256px\\Lighting Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "lighting white",
+            "selected_candidate": "Main\\Lighting\\256px\\Lighting White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "magnifying glass black",
+            "selected_candidate": "Main\\Magnifying Glass\\256w\\Magnifying Glass Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "magnifying glass white",
+            "selected_candidate": "Main\\Magnifying Glass\\256w\\Magnifying Glass White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "music off black",
+            "selected_candidate": "Main\\Music OFF\\256w\\Music OFF Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "music off white",
+            "selected_candidate": "Main\\Music OFF\\256w\\Music OFF White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "music on black",
+            "selected_candidate": "Main\\Music ON\\256w\\Music ON Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "music on white",
+            "selected_candidate": "Main\\Music ON\\256w\\Music ON White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "paw black",
+            "selected_candidate": "Main\\Paw\\256px\\Paw Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "paw white",
+            "selected_candidate": "Main\\Paw\\256px\\Paw White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "save black",
+            "selected_candidate": "Main\\Save\\256w\\Save Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "save white",
+            "selected_candidate": "Main\\Save\\256w\\Save White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "settings black",
+            "selected_candidate": "Main\\Settings\\256px\\Settings Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "settings white",
+            "selected_candidate": "Main\\Settings\\256px\\Settings White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "shopping bag black",
+            "selected_candidate": "Main\\Shopping Bag\\256px\\Shopping Bag Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "shopping bag white",
+            "selected_candidate": "Main\\Shopping Bag\\256px\\Shopping Bag White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "shopping cart black",
+            "selected_candidate": "Main\\Shopping Cart\\256px\\Shopping Cart Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "shopping cart white",
+            "selected_candidate": "Main\\Shopping Cart\\256px\\Shopping Cart White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "sound off black",
+            "selected_candidate": "Main\\Sound OFF\\256w\\Sound OFF Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "sound off white",
+            "selected_candidate": "Main\\Sound OFF\\256w\\Sound OFF White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "sound on black",
+            "selected_candidate": "Main\\Sound ON\\256w\\Sound ON Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "sound on white",
+            "selected_candidate": "Main\\Sound ON\\256w\\Sound ON White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "purple star 1st_1",
+            "selected_candidate": "Main\\Star\\256px\\Purple Star 1st_1 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "star black",
+            "selected_candidate": "Main\\Star\\256px\\Star Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "star white",
+            "selected_candidate": "Main\\Star\\256px\\Star White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "stats black",
+            "selected_candidate": "Main\\Stats\\256px\\Stats Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "stats white",
+            "selected_candidate": "Main\\Stats\\256px\\Stats White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "trade black",
+            "selected_candidate": "Main\\Trade\\256px\\Trade Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "trade white",
+            "selected_candidate": "Main\\Trade\\256px\\Trade White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "trash can black",
+            "selected_candidate": "Main\\Trash Can\\256w\\Trash Can Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "trash can white",
+            "selected_candidate": "Main\\Trash Can\\256w\\Trash Can White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "upgrade black",
+            "selected_candidate": "Main\\Upgrade\\256px\\Upgrade Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "upgrade white",
+            "selected_candidate": "Main\\Upgrade\\256px\\Upgrade White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "verify black",
+            "selected_candidate": "Main\\Verify\\256px\\Verify Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "verify white",
+            "selected_candidate": "Main\\Verify\\256px\\Verify White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "wheel black",
+            "selected_candidate": "Main\\Wheel\\256px\\Wheel Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "wheel white",
+            "selected_candidate": "Main\\Wheel\\256px\\Wheel White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "apple black",
+            "selected_candidate": "Nature\\Apple\\256px\\Apple Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "apple white",
+            "selected_candidate": "Nature\\Apple\\256px\\Apple White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "banana black",
+            "selected_candidate": "Nature\\Banana\\256px\\Banana Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "banana white",
+            "selected_candidate": "Nature\\Banana\\256px\\Banana White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "cloud black",
+            "selected_candidate": "Nature\\Cloud\\256px\\Cloud Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "cloud white",
+            "selected_candidate": "Nature\\Cloud\\256px\\Cloud White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "clover black",
+            "selected_candidate": "Nature\\Clover\\256px\\Clover Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "clover white",
+            "selected_candidate": "Nature\\Clover\\256px\\Clover White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "leaf black",
+            "selected_candidate": "Nature\\Leaf\\256px\\Leaf Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "leaf white",
+            "selected_candidate": "Nature\\Leaf\\256px\\Leaf White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "orange black",
+            "selected_candidate": "Nature\\Orange\\256px\\Orange Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "orange white",
+            "selected_candidate": "Nature\\Orange\\256px\\Orange White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "planet black",
+            "selected_candidate": "Nature\\Planet\\256px\\Planet Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "planet white",
+            "selected_candidate": "Nature\\Planet\\256px\\Planet White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "strawberry black",
+            "selected_candidate": "Nature\\Strawberry\\256px\\Strawberry Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "strawberry white",
+            "selected_candidate": "Nature\\Strawberry\\256px\\Strawberry White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "thunderstorm black",
+            "selected_candidate": "Nature\\Thunderstorm\\256w\\Thunderstorm Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "thunderstorm white",
+            "selected_candidate": "Nature\\Thunderstorm\\256w\\Thunderstorm White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "wheat black",
+            "selected_candidate": "Nature\\Wheat\\256px\\Wheat Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "wheat white",
+            "selected_candidate": "Nature\\Wheat\\256px\\Wheat White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "4 players black",
+            "selected_candidate": "Player\\4 Players\\256w\\4 Players Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "4 players white",
+            "selected_candidate": "Player\\4 Players\\256w\\4 Players White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "add player black",
+            "selected_candidate": "Player\\Add Player\\256px\\Add Player Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "add player white",
+            "selected_candidate": "Player\\Add Player\\256px\\Add Player White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "arm black",
+            "selected_candidate": "Player\\Arm\\256px\\Arm Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "arm white",
+            "selected_candidate": "Player\\Arm\\256px\\Arm White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "green arm 2nd_1",
+            "selected_candidate": "Player\\Arm\\256px\\Green Arm 2nd_1 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "friend black",
+            "selected_candidate": "Player\\Friend\\256px\\Friend Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "friend white",
+            "selected_candidate": "Player\\Friend\\256px\\Friend White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "full body black",
+            "selected_candidate": "Player\\Full Body\\256w\\Full Body Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "full body white",
+            "selected_candidate": "Player\\Full Body\\256w\\Full Body White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "player black",
+            "selected_candidate": "Player\\Player\\256px\\Player Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "player white",
+            "selected_candidate": "Player\\Player\\256px\\Player White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "rip black",
+            "selected_candidate": "Player\\RIP\\256w\\RIP Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "rip white",
+            "selected_candidate": "Player\\RIP\\256w\\RIP White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "skull black",
+            "selected_candidate": "Player\\Skull\\256px\\Skull Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "skull white",
+            "selected_candidate": "Player\\Skull\\256px\\Skull White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "smiling face with horns black",
+            "selected_candidate": "Player\\Smiling Face With Horns\\256w\\Smiling Face With Horns Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "smiling face with horns white",
+            "selected_candidate": "Player\\Smiling Face With Horns\\256w\\Smiling Face With Horns White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "gamepad black",
+            "selected_candidate": "Social\\Discord\\256w\\Gamepad Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "gamepad white",
+            "selected_candidate": "Social\\Discord\\256w\\Gamepad White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "guilded black",
+            "selected_candidate": "Social\\Guilded\\256w\\Guilded Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "guilded white",
+            "selected_candidate": "Social\\Guilded\\256w\\Guilded White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "bird black",
+            "selected_candidate": "Social\\Twitter\\256w\\Bird Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "bird white",
+            "selected_candidate": "Social\\Twitter\\256w\\Bird White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "x black",
+            "selected_candidate": "Social\\X\\256w\\X Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "x white",
+            "selected_candidate": "Social\\X\\256w\\X White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "chat black",
+            "selected_candidate": "UI\\Chat\\256w\\Chat Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "chat white",
+            "selected_candidate": "UI\\Chat\\256w\\Chat White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "checkmark black",
+            "selected_candidate": "UI\\Checkmark\\256px\\Checkmark Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "checkmark white",
+            "selected_candidate": "UI\\Checkmark\\256px\\Checkmark White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "checkmark button black",
+            "selected_candidate": "UI\\Checkmark Button\\256px\\Checkmark Button Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "checkmark button white",
+            "selected_candidate": "UI\\Checkmark Button\\256px\\Checkmark Button White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "close button black",
+            "selected_candidate": "UI\\Close Button\\256px\\Close Button Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "close button white",
+            "selected_candidate": "UI\\Close Button\\256px\\Close Button White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "cursor black",
+            "selected_candidate": "UI\\Cursor\\256px\\Cursor Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "cursor white",
+            "selected_candidate": "UI\\Cursor\\256px\\Cursor White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "exclamation mark black",
+            "selected_candidate": "UI\\Exclamation Mark\\256px\\Exclamation Mark Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "exclamation mark white",
+            "selected_candidate": "UI\\Exclamation Mark\\256px\\Exclamation Mark White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "info black",
+            "selected_candidate": "UI\\Info\\256px\\Info Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "info white",
+            "selected_candidate": "UI\\Info\\256px\\Info White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "minus black",
+            "selected_candidate": "UI\\Minus\\256px\\Minus Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "minus white",
+            "selected_candidate": "UI\\Minus\\256px\\Minus White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "plus black",
+            "selected_candidate": "UI\\Plus\\256px\\Plus Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "plus white",
+            "selected_candidate": "UI\\Plus\\256px\\Plus White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "question mark black",
+            "selected_candidate": "UI\\Question Mark\\256px\\Question Mark Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "question mark white",
+            "selected_candidate": "UI\\Question Mark\\256px\\Question Mark White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "skip black",
+            "selected_candidate": "UI\\Skip\\256w\\Skip Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "skip white",
+            "selected_candidate": "UI\\Skip\\256w\\Skip White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "warning black",
+            "selected_candidate": "UI\\Warning\\256px\\Warning Black 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        },
+        {
+            "name": "warning white",
+            "selected_candidate": "UI\\Warning\\256px\\Warning White 256px.png",
+            "reason": "No Outline/Stroke variant found"
+        }
+    ]
+}
